@@ -1,22 +1,3 @@
-/* 
--------------------------------------------------------------------------------------
-PRACA INŻYNIERSKA 
-AUTOR: JAKUB MARCHELSKI
- NR INDEKSU: 229112
-KIERUNEK: SYSTEMY STEROWANIA INTELIGENTNYMI BUDYNKAMI
-
-
-
-ŹRÓDŁA WYKORZYSTYWANE PRZY PISANIU KODU:
-1. https://stackoverflow.com/questions/11381673/detecting-a-mobile-browser
-2. https://socket.io/
-3. https://www.npmjs.com/package/onoff
--------------------------------------------------------------------------------------
-*/
-
-
-
-/****************************************************/
 
 	
 var socket = io(); 
