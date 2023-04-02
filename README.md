@@ -1,4 +1,6 @@
 
+[![*CLICK HERE TO WATCH THE VIDEO*](https://img.youtube.com/vi/AHB3sx7JY-A/0.jpg)]([https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE](https://www.youtube.com/watch?v=AHB3sx7JY-A))
+
 **Overview**
 
 This home automation project uses Arduino and Raspberry Pi to automate various devices in your home, including entry gates, outside lights, and lights inside your home. In addition, you can also use the project to manage a video intercom system that allows you to communicate with visitors at your door.
