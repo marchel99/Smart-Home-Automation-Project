@@ -1,3 +1,13 @@
+<object width="425" height="350">
+  <param name="movie" value="https://www.youtube.com/watch?v=AHB3sx7JY-A" />
+  <param name="wmode" value="transparent" />
+  <embed src="https://www.youtube.com/watch?v=AHB3sx7JY-A"
+         type="application/x-shockwave-flash"
+         wmode="transparent" width="425" height="350" />
+</object>
+
+
+
 Overview
 
 This home automation project uses Arduino and Raspberry Pi to automate various devices in your home, including entry gates, outside lights, and lights inside your home. In addition, you can also use the project to manage a video intercom system that allows you to communicate with visitors at your door.
