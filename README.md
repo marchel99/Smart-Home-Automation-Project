@@ -1,5 +1,5 @@
 
-[![*CLICK HERE TO WATCH THE VIDEO*](https://img.youtube.com/vi/AHB3sx7JY-A/0.jpg)]([https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE](https://www.youtube.com/watch?v=AHB3sx7JY-A))
+[![*CLICK HERE TO WATCH THE VIDEO*](https://img.youtube.com/vi/AHB3sx7JY-A/0.jpg)](https://www.youtube.com/watch?v=AHB3sx7JY-A)
 
 **Overview**
 
