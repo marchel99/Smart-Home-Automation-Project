@@ -1,7 +1,10 @@
 
+
+### **Click the link below to see full video!**
+ 
 [![*CLICK HERE TO WATCH THE VIDEO*](https://img.youtube.com/vi/AHB3sx7JY-A/0.jpg)](https://www.youtube.com/watch?v=AHB3sx7JY-A)
 
-**Overview**
+## **Overview**
 
 This home automation project uses Arduino and Raspberry Pi to automate various devices in your home, including entry gates, outside lights, and lights inside your home. In addition, you can also use the project to manage a video intercom system that allows you to communicate with visitors at your door.
 
@@ -17,7 +20,7 @@ To run this home automation project, you will need the following:
     Relays to control the devices
     A web browser to access the web app
 
-**Setup**
+## **Setup**
 
 To set up this home automation project, follow these steps:
 
@@ -26,7 +29,7 @@ To set up this home automation project, follow these steps:
     Set up the JavaScript web app on the Raspberry Pi.
     Run the web app and connect to it using a web browser.
 
-**Usage**
+## **Usage**
 
 To use this home automation project, follow these steps:
 
@@ -34,7 +37,7 @@ To use this home automation project, follow these steps:
     Use the interface to turn on and off the devices in your home.
     Enjoy the convenience of automated home devices!
 
-**Troubleshooting**
+## **Troubleshooting**
 
 If you encounter any issues with this home automation project, try the following:
 
