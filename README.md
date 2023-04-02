@@ -6,7 +6,7 @@
          wmode="transparent" width="425" height="350" />
 </object>
 
-
+![ANSL](https://ansl.edu.pl/templates/pwsiip-uczelnia-2015/images/logo-ansl-napis.svg 'ANSL')
 
 Overview
 
