@@ -1,14 +1,5 @@
-<object width="425" height="350">
-  <param name="movie" value="https://www.youtube.com/watch?v=AHB3sx7JY-A" />
-  <param name="wmode" value="transparent" />
-  <embed src="https://www.youtube.com/watch?v=AHB3sx7JY-A"
-         type="application/x-shockwave-flash"
-         wmode="transparent" width="425" height="350" />
-</object>
 
-!([https://www.youtube.com/watch?v=AHB3sx7JY-A](https://www.youtube.com/watch?v=AHB3sx7JY-A) 'ANSL')
-
-#Overview
+**Overview**
 
 This home automation project uses Arduino and Raspberry Pi to automate various devices in your home, including entry gates, outside lights, and lights inside your home. In addition, you can also use the project to manage a video intercom system that allows you to communicate with visitors at your door.
 
@@ -24,7 +15,7 @@ To run this home automation project, you will need the following:
     Relays to control the devices
     A web browser to access the web app
 
-#Setup
+**Setup**
 
 To set up this home automation project, follow these steps:
 
@@ -33,7 +24,7 @@ To set up this home automation project, follow these steps:
     Set up the JavaScript web app on the Raspberry Pi.
     Run the web app and connect to it using a web browser.
 
-#Usage
+**Usage**
 
 To use this home automation project, follow these steps:
 
@@ -41,7 +32,7 @@ To use this home automation project, follow these steps:
     Use the interface to turn on and off the devices in your home.
     Enjoy the convenience of automated home devices!
 
-#Troubleshooting
+**Troubleshooting**
 
 If you encounter any issues with this home automation project, try the following:
 
@@ -50,6 +41,6 @@ If you encounter any issues with this home automation project, try the following
     Check that the relays are properly connected to the devices you want to control.
     Ensure that the web app is properly set up and running on the Raspberry Pi.
 
-#Conclusion
+**Conclusion**
 
 This home automation project allows you to automate the devices in your home using Arduino and Raspberry Pi, and control them using a JavaScript web app. With this project, you can enjoy the convenience of automated home devices and control them from anywhere in your home or remotely.
